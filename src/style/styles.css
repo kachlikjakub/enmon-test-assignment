@@ -1,0 +1,25 @@
+.App {
+    display: block;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login-wrapper {
+    justify-self: center;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 10px;
+    padding-bottom: 10px;
+}
